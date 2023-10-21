@@ -8,3 +8,6 @@ Step in the code are
 3. copy the folder of the hyper-v VM to backup disk or somewhere else
 4. start the VM again
    
+TESTED WITH WINDOWS SERVER 2012 R2 SUCCESS
+
+TO MAKE IT AUTO BACKUP YOU CAN ADD THIS CODE IN TASK SCHEDULER
